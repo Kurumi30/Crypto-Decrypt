@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "crypto-js": "^4.1.1"
+  },
+  "name": "test",
+  "version": "1.0.0",
+  "main": "crypto.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node crypto.js"
+  },
+  "author": "Kurumi30",
+  "license": "ISC",
+  "description": ""
+}
