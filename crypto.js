@@ -1,8 +1,8 @@
 const CryptoJS = require("crypto-js")
 
 // Criptografando o texto
-let text = "William é um gay"
-let password = "japonestrouxa"
+let text = ""
+let password = ""
 
 const crypt = CryptoJS.AES.encrypt(text, password)
 
